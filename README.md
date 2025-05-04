@@ -12,7 +12,7 @@
 
 `cleanup_containers.sh` - zatrzymuje i usuwa kontenery.
 
-`cleanup_all` - zatrzymuje i usuwa kontenery, usuwa sieci i wolumeny.
+`cleanup_all.sh` - zatrzymuje i usuwa kontenery, usuwa sieci i wolumeny.
 
 ## Aby przetestować
 
